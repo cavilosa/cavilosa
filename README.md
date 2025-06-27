@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cavilosa
+# 👋 Hi, I'm Maryna
 
 **AI Security Specialist** | **LLM Safety Engineer** | **MLOps & Governance**  
 Building secure AI systems, one prompt and policy at a time.
