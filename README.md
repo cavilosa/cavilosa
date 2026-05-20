@@ -1,64 +1,53 @@
-# 👋 Hi, I'm Maryna
+# 👋 Hi, I'm Maryna Korzhyk
 
-**AI Security Specialist** | **LLM Safety Engineer** | **MLOps & Governance**  
-Building secure AI systems, one prompt and policy at a time.
+**Certified in Cybersecurity (ISC)² | Cloud Infrastructure & Secure Communications | Founder @ NorthShield Cyber**
 
----
-
-## 🔐 Current Focus
-
-I’m transitioning from full-stack dev into AI Security, with hands-on projects and research across:
-
-- **LLM Security** – prompt injection defenses, output filtering, token limits  
-- **Adversarial ML** – fuzzing tools, sandbox environments, attack simulations  
-- **Secure MLOps** – pipelines with CI/CD, access controls, audit logs  
-- **Governance & Compliance** – AI policy templates, fairness audits (AIF360), NIST RMF
+I am a software developer transitioning into cloud infrastructure and cybersecurity. My focus is on building resilient backend architectures, automating identity and access management, and mapping technical deployments to strict compliance frameworks. I am the founder of **NorthShield Cyber**, where I document technical insights on vendor risk management and system architecture.
 
 ---
 
-## 🧪 Featured Projects
+## 🔐 Current Focus & Roadmap
 
-- [`secure-gpt-assistant`](https://github.com/cavilosa/secure-gpt-assistant) – JWT auth, logging, and input/output sanitization  
-- [`prompt-injection-fuzzer`](https://github.com/cavilosa/prompt-injection-fuzzer) – Finds prompt weaknesses in GPT apps  
-- [`ai-misuse-monitor`](https://github.com/cavilosa/ai-misuse-monitor) – Detects abuse scenarios and flags unsafe generations  
-- [`ai-governance-kit`](https://github.com/cavilosa/ai-governance-kit) – Templates for risk policies, audit checklists, and fairness testing
+I am actively executing a rapid upskilling sprint focused on the Microsoft cloud ecosystem, bridging my backend development experience with enterprise cloud infrastructure.
 
----
-
-## 🧠 Skills & Tools
-
-- **Languages**: Python, Flask, FastAPI, JavaScript/React  
-- **Security**: Burp Suite, OWASP Top 10, MITRE ATLAS  
-- **LLM Stack**: OpenAI API, LangChain, LlamaIndex  
-- **DevOps**: GitHub Actions, secure CI/CD, JWT, OAuth  
-- **Cloud & Infra**: AWS, Linux, Docker  
-- **Governance**: NIST AI RMF, ISO 42001 (in progress), AIF360
+* **Certification Sprints:** Currently studying for the **AZ-900 (Azure Fundamentals)** and **MS-900 (Microsoft 365 Fundamentals)** exams to solidify my understanding of cloud SLAs, PaaS/IaaS architectures, and SaaS licensing models.
+* **Infrastructure as Code:** Building automated cloud deployment pipelines, including deploying containerized Flask applications to Azure App Services.
+* **Identity Automation:** Developing Python scripts leveraging the **Microsoft Graph API** to automate user provisioning and license management in Entra ID.
+* **Security Governance:** Writing whitepapers for **NorthShield Cyber** that map Azure Role-Based Access Control (RBAC) and Conditional Access to (ISC)² CC security domains.
 
 ---
 
-## 🎓 Certifications
+## 🚀 Featured Experience & Projects
 
-- ISC² Certified in Cybersecurity (CC)  
-- Fortinet NSE 1 & 2  
-- MLOps Zoomcamp  
-- DeepLearning.AI AI Ethics  
-- (Working toward: ISO/IEC 42001 + NIST AI RMF)
-
----
-
-## ✍️ Recent Blogs
-
-- 🧠 [Prompt Injection Basics](#)  
-- 🧰 [Red Teaming My Own GPT Bot](#)  
-- 🧼 [Building a Safer Chatbot](#)  
-- ⚖️ [Bias & Fairness in AI – Hands-On Audit](#)
+* **[TeleHelp Ukraine](https://github.com/TeleHelp-Ukraine/telehelpukraine)** * *Backend & Infrastructure Volunteer*
+  * Developed and maintained secure communication routes and internal booking logic. Managed backend infrastructure leveraging AWS and Meta services to ensure reliable, secure data flow.
+* **[Secure AI Telemedicine Prototype](https://github.com/cavilosa/secure-ai-telemed-prototype)**
+  * *Proof-of-Concept Developer*
+  * Built an end-to-end secure telemedicine application featuring automated NLP-based PII/PHI redaction, stateless JWT authentication, and strict adherence to cross-border compliance principles (HIPAA & PIPEDA).
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ Skills & Technologies
 
-- [LinkedIn](https://linkedin.com/in/yourname)  
-- [Portfolio (GitHub Pages / Notion)](#)  
-- [Resume](#)
+* **Languages:** Python (Flask), JavaScript
+* **Cloud & Infrastructure:** Azure (Active Learning), AWS, Docker, GitHub Actions (CI/CD)
+* **Security & Identity:** Entra ID, Microsoft Graph API, JWT, Role-Based Access Control (RBAC)
+* **Governance:** (ISC)² CC, NIST RMF, HIPAA/PIPEDA Compliance Mapping
 
-Let’s build safer AI together. 🚀
+---
+
+## 🧶 Beyond the Code
+
+When I'm not writing automation scripts or studying cloud architecture, you can find me:
+* **Designing:** Running **Still Skein**, my brand focused on custom handmade knitted garments and complex pattern calculations.
+* **Reading:** Deep diving into "hard" science fiction (huge fan of *The Three-Body Problem*, *A Fire Upon the Deep*, and the *Dune* universe).
+* **Exploring:** Hiking and swimming with my family and our Labradoodle in beautiful Alberta, Canada.
+
+---
+
+## 📫 Let's Connect
+
+I am always open to discussing secure IT infrastructure, M365 automation, or the latest in sci-fi literature. 
+
+* **LinkedIn:** [Insert your LinkedIn URL here]
+* **Professional Brand:** Follow **NorthShield Cyber** for my latest security mapping and architecture whitepapers.
