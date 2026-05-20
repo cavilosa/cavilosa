@@ -2,18 +2,17 @@
 
 **Certified in Cybersecurity (ISC)² | Cloud Infrastructure & Secure Communications | Founder @ NorthShield Cyber**
 
-I am a software developer transitioning into cloud infrastructure and cybersecurity. My focus is on building resilient backend architectures, automating identity and access management, and mapping technical deployments to strict compliance frameworks. I am the founder of **NorthShield Cyber**, where I document technical insights on vendor risk management and system architecture.
+I am a software developer transitioning into cloud infrastructure and cybersecurity. My focus is on building resilient backend architectures, implementing secure communications, and mapping technical deployments to compliance frameworks. I am the founder of **NorthShield Cyber**, where I document technical insights on vendor risk management and system architecture.
 
 ---
 
 ## 🔐 Current Focus & Roadmap
 
-I am actively executing a rapid upskilling sprint focused on the Microsoft cloud ecosystem, bridging my backend development experience with enterprise cloud infrastructure.
+I am actively executing an upskilling sprint focused on enterprise cloud infrastructure and security governance.
 
-- **Certification Sprints:** Currently studying for the **AZ-900 (Azure Fundamentals)** and **MS-900 (Microsoft 365 Fundamentals)** exams to solidify my understanding of cloud SLAs, PaaS/IaaS architectures, and SaaS licensing models.
-- **Infrastructure as Code:** Building automated cloud deployment pipelines, including deploying containerized Flask applications to Azure App Services.
-- **Identity Automation:** Developing Python scripts leveraging the **Microsoft Graph API** to automate user provisioning and license management in Entra ID.
-- **Security Governance:** Writing whitepapers for **NorthShield Cyber** that map Azure Role-Based Access Control (RBAC) and Conditional Access to (ISC)² CC security domains.
+- **Certification Sprints:** Currently studying for the **AZ-900 (Azure Fundamentals)** and **MS-900 (Microsoft 365 Fundamentals)** exams to solidify my understanding of cloud SLAs, PaaS/IaaS architectures, and SaaS licensing models. I am also preparing for the **CompTIA Security+** exam.
+- **Cloud Transition:** Expanding my hands-on backend experience (AWS, Docker, CI/CD) into the Microsoft Azure ecosystem.
+- **Professional Brand:** Developing **NorthShield Cyber** to share insights on IT infrastructure and B2B vendor security assessments.
 
 ---
 
@@ -27,21 +26,21 @@ I am actively executing a rapid upskilling sprint focused on the Microsoft cloud
 ## 🛠️ Skills & Technologies
 
 - **Languages:** Python (Flask), JavaScript
-- **Cloud & Infrastructure:** Azure (Active Learning), AWS, Docker, GitHub Actions (CI/CD)
-- **Security & Identity:** Entra ID, Microsoft Graph API, JWT, Role-Based Access Control (RBAC)
-- **Governance:** (ISC)² CC, NIST RMF, HIPAA/PIPEDA Compliance Mapping
+- **Cloud & DevOps:** AWS, Docker, GitHub Actions (CI/CD), Azure (Active Learning)
+- **Security Engineering:** JWT Authentication, Secure System Architecture
+- **Governance:** (ISC)² CC, NIST RMF, HIPAA/PIPEDA Compliance Principles
 
 ---
 
-## 🧶 Beyond the Code
+## ![Sci-Fi](https://img.shields.io/badge/Sci--Fi-6A5ACD?style=flat-square&logo=bookstack&logoColor=white) Beyond the Code
 
-When I'm not writing automation scripts or studying cloud architecture, you can usually find me deep diving into "hard" science fiction (I'm a huge fan of *The Three-Body Problem*, *A Fire Upon the Deep*, and the *Dune* universe).
+When I'm not writing automation scripts or studying cloud architecture, you can usually find me deep diving into "hard" science fiction (I'm a huge fan of *The Three-Body Problem*, *Blindsight*, and *Children of Time*).
 
 ---
 
 ## 📫 Let's Connect
 
-I am always open to discussing secure IT infrastructure, M365 automation, or the latest in sci-fi literature.
+I am always open to discussing secure IT infrastructure, cloud architecture, or the latest in sci-fi literature.
 
 - **LinkedIn:** [Maryna Korzhyk](https://www.linkedin.com/in/maryna-korzhyk-9339521b8/)
-- **Professional Brand:** Follow **NorthShield Cyber** for my latest security mapping and architecture whitepapers.
+- **Professional Brand:** Follow **NorthShield Cyber** for my latest security and architecture insights.
